@@ -6,6 +6,3 @@ Some possible block diagrams of FPGA-centric flight computers, aimed towards rep
 
 ## ZYNQ Based Architecture
 <img width="593" height="557" alt="image" src="https://github.com/user-attachments/assets/2590ecde-dcdd-4b00-a91e-ba36234559c8" />
-
-
-## Microblaze (softcore) Architecture
